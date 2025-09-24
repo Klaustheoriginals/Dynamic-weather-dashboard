@@ -38,7 +38,7 @@ A colorful and dynamic weather dashboard web application that fetches \*\*real-t
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/YOUR\_USERNAME/weather-dashboard-colorful.git
+&nbsp;  git clone https://github.com/Klaustheoriginals/weather-dashboard-colorful.git
 
 &nbsp;  cd weather-dashboard-colorful
 
