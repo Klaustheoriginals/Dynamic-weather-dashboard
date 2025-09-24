@@ -40,7 +40,8 @@ A colorful and dynamic weather dashboard web application that fetches \*\*real-t
 
 &nbsp;  git clone https://github.com/Klaustheoriginals/Dynamic-weather-dashboard.git
 
-&nbsp;  cd weather-dashboard-colorful
+&nbsp;  cd Dynamic-weather-dashboard
+
 
 
 
